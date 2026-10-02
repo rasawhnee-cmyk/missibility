@@ -44,6 +44,13 @@ It includes two helper scripts (Python standard library only):
 - `check_crawlers.py` checks robots.txt for 12 search and AI crawlers, separating search bots from training bots. It also lints the raw file for invalid lines, default-deny rules and blocked search engines.
 - `score.py` calculates the priority score and the 0–2 scoring rubrics.
 
+## What it runs, sends and stores
+
+- **No hooks, MCP servers, background processes or package installs.** The skill is instructions plus two small, readable Python scripts that Claude runs only when the task calls for them.
+- **`check_crawlers.py`** makes plain HTTPS GET requests for `/robots.txt` on the domains you name, and nothing else. It sends no data about you, and it writes nothing to disk.
+- **`score.py`** is offline arithmetic. It makes no network calls and writes no files.
+- **No telemetry.** The skill collects, stores and transmits no personal data. Any web research during an audit uses Claude's own tools, under your permissions.
+
 ## Install
 
 ### Claude Code (plugin marketplace)
