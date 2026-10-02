@@ -1,0 +1,19 @@
+{
+  "name": "missibility",
+  "owner": { "name": "Meera Kaul" },
+  "metadata": {
+    "description": "Missibility: SEO, AEO & GEO for B2B brands, by Meera Kaul.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "missibility",
+      "source": "./",
+      "description": "SEO, AEO & GEO for B2B brands: audits, AI-crawler policy, prompt research, citation-ready pages, AI answer accuracy, measurement and 90-day plans.",
+      "version": "1.0.0",
+      "author": { "name": "Meera Kaul" },
+      "category": "marketing",
+      "keywords": ["seo", "aeo", "geo", "ai-search", "b2b-marketing"]
+    }
+  ]
+}

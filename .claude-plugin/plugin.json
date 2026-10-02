@@ -1,0 +1,10 @@
+{
+  "name": "missibility",
+  "version": "1.0.0",
+  "description": "SEO, AEO & GEO for B2B brands: audits, AI-crawler policy, prompt research, citation-ready pages, AI answer accuracy, measurement and 90-day plans across Google, ChatGPT, Copilot, Perplexity and Claude.",
+  "author": { "name": "Meera Kaul" },
+  "homepage": "https://github.com/rasawhnee-cmyk/missibility",
+  "repository": "https://github.com/rasawhnee-cmyk/missibility",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": ["seo", "aeo", "geo", "ai-search", "generative-engine-optimization", "answer-engine-optimization", "b2b-marketing", "robots-txt", "llm-visibility"]
+}
