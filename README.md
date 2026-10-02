@@ -83,4 +83,4 @@ Created by **Meera Kaul**, author of *The Enterprise Search Visibility Manual: S
 
 ## License
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Free to use and adapt with credit to Meera Kaul, for non-commercial purposes, with adaptations shared under the same license. For commercial licensing, contact the author. Full text in [LICENSE](LICENSE).
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Free to use and adapt with credit to Meera Kaul, for non-commercial purposes, with adaptations shared under the same license. For commercial licensing, contact the author. Full text in [LICENSE](LICENSE); attribution notice in [NOTICE](NOTICE).
